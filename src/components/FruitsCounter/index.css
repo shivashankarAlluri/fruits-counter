@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffd569;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.image {
+  height: 600px;
+}
+.inner-container {
+  display: flex;
+}
+.button {
+  text-align: center;
+}
+.button1 {
+  color: #ffffff;
+  background-color: #007bff;
+  border-radius: 5px;
+  text-align: center;
+  height: 30px;
+}
+.elements {
+  color: #ffd569;
+}
